@@ -1,0 +1,9 @@
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\bin\Debug\sanduhr_test.exe.config
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\bin\Debug\sanduhr_test.exe
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\bin\Debug\sanduhr_test.pdb
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\obj\Debug\sanduhr_test.csprojResolveAssemblyReference.cache
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\obj\Debug\sanduhr_test.Form1.resources
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\obj\Debug\sanduhr_test.Properties.Resources.resources
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\obj\Debug\sanduhr_test.csproj.GenerateResource.Cache
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\obj\Debug\sanduhr_test.exe
+C:\Users\Janis\documents\visual studio 2013\Projects\sanduhr_test\sanduhr_test\obj\Debug\sanduhr_test.pdb
