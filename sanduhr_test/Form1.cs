@@ -61,13 +61,11 @@ namespace sanduhr_test
 
            
             aTimer = new System.Timers.Timer(10);
-            // Hook up the Elapsed event for the timer. 
             aTimer.Elapsed += OnTimedEventA;
             aTimer.AutoReset = true;
             aTimer.Enabled = true;
 
             bTimer = new System.Timers.Timer(100);
-            // Hook up the Elapsed event for the timer. 
             bTimer.Elapsed += OnTimedEventB;
             bTimer.AutoReset = true;
             bTimer.Enabled = true;
@@ -223,8 +221,6 @@ namespace sanduhr_test
                     }
                 }
             }
-
-
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
