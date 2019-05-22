@@ -9,6 +9,7 @@ Description:<br>
  - buttons increase or decrease the amount of sand<br>
 <br>
 Screenshots:<br>
-![scr1](https://raw.githubusercontent.com/janitz/sanduhr_test/master/pics/scr1.png)<br>
-![scr2](https://raw.githubusercontent.com/janitz/sanduhr_test/master/pics/scr2.png)<br>
-![scr3](https://raw.githubusercontent.com/janitz/sanduhr_test/master/pics/scr3.png)<br>
+<img src="https://raw.githubusercontent.com/janitz/sanduhr_test/master/pics/scr1.png"><br>
+<img src="https://raw.githubusercontent.com/janitz/sanduhr_test/master/pics/scr2.png"><br>
+<img src="https://raw.githubusercontent.com/janitz/sanduhr_test/master/pics/scr3.png"><br>
+
